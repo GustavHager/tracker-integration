@@ -1,4 +1,3 @@
-Dependencies
-* Opencv
-* some obsucre library
-* rest in dependencies folder
+Dependencies:
+* OpenCV 2
+* Some other library
