@@ -1,4 +1,8 @@
-Requirements
+This tracker was run on
 * ubunut 16.04
 * python3.5
-* rest in "requirements.txt"
+
+generate the requirement.txt file by:
+'''
+pip freeze > requirements.txt
+'''
